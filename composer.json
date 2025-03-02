@@ -1,0 +1,10 @@
+{
+    "name": "vantronye/client-info",
+    "description": "Add client information to the panel menu",
+    "version": "1.0.0",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "autoload": {
+        "files": ["index.php"]
+    }
+}
