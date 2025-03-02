@@ -1,0 +1,38 @@
+.client-info-container {
+    padding: 1.5rem;
+}
+
+.client-info-header {
+    margin-bottom: 1.5rem;
+}
+
+.client-info-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.client-info-description {
+    color: #777;
+    line-height: 1.5;
+}
+
+.client-info-settings {
+    margin-top: 1rem;
+}
+
+.client-info-item {
+    background: #f7f7f7;
+    border-radius: 4px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.client-info-item-active {
+    border-left: 3px solid #16171a;
+}
+
+.client-info-item-inactive {
+    border-left: 3px solid #999;
+    opacity: 0.6;
+}
